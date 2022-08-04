@@ -89,7 +89,7 @@ function MainPage() {
                     color="secondary"
                     endIcon={<AddShoppingCartIcon />}
                   >
-                    Adicionar ao carrinho
+                    Add to cart
                   </Button>
                 </CardActions>
               </Card>
